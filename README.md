@@ -32,7 +32,7 @@
 ##### [💛 Oliview (2023.09 ~ 2023.11)](https://github.com/team-farmers/Oliview)
 
 
-##### [💛 Conbee (2023.11 ~ 2023.12)](https://github.com/Bee-Keepers/conbee)
+##### [💛 conBee (2023.11 ~ 2023.12)](https://github.com/Bee-Keepers/conbee)
 
 
 
