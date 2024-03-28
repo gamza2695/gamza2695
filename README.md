@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9FDCF6&height=170&section=header&text=%20Yoojin's%20Github&fontSize=50&fontColor=FFFFFF)
 
-### [🤗 Hi, I'm yoojin!]
+## [🤗 Hi, I'm yoojin!]
 
 반갑습니다. 신입 개발자 정유진입니다✨
 
 
 </br>
 
-### [✨ Skills & Tools]
+## [✨ Skills & Tools]
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -33,11 +33,11 @@
 
 
 
-### [🗂 Project]
-##### [💛 Oliview (2023.09 ~ 2023.11)](https://github.com/team-farmers/Oliview)
+## [🗂 Project]
+#### [🔗 Oliview (2023.09 ~ 2023.11)](https://github.com/team-farmers/Oliview)
 
 
-##### [💛 conBee (2023.11 ~ 2023.12)](https://github.com/Bee-Keepers/conbee)
+#### [🔗 conBee (2023.11 ~ 2023.12)](https://github.com/Bee-Keepers/conbee)
 
 
 
